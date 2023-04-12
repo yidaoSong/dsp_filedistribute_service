@@ -1,0 +1,880 @@
+[
+  {
+    "id": 27,
+    "ruleId": 5,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 865,
+    "ruleId": 6,
+    "lineCId": "c0050001",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~彩色通稿",
+    "lineCode": "CSTGZ",
+    "lastNodeCid": "c0050001"
+  },
+  {
+    "id": 866,
+    "ruleId": 6,
+    "lineCId": "c0030002",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~通稿新闻线路",
+    "lineCode": "XHZSS",
+    "lastNodeCid": "c0030002"
+  },
+  {
+    "id": 867,
+    "ruleId": 9,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 869,
+    "ruleId": 7,
+    "lineCId": "c0030024",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~公鉴",
+    "lineCode": "XHZSG",
+    "lastNodeCid": "c0030024"
+  },
+  {
+    "id": 870,
+    "ruleId": 7,
+    "lineCId": "c0030002",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~通稿新闻线路",
+    "lineCode": "XHZSS",
+    "lastNodeCid": "c0030002"
+  },
+  {
+    "id": 871,
+    "ruleId": 7,
+    "lineCId": "c0030006",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~国际特稿新闻专线",
+    "lineCode": "XHZOE",
+    "lastNodeCid": "c0030006"
+  },
+  {
+    "id": 872,
+    "ruleId": 7,
+    "lineCId": "c0030175",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线_文字",
+    "lineCode": "IFWWZ",
+    "lastNodeCid": "c0030175"
+  },
+  {
+    "id": 873,
+    "ruleId": 7,
+    "lineCId": "c0050001",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~彩色通稿",
+    "lineCode": "CSTGZ",
+    "lastNodeCid": "c0050001"
+  },
+  {
+    "id": 874,
+    "ruleId": 7,
+    "lineCId": "c0050004",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~体育专线",
+    "lineCode": "TYZXZ",
+    "lastNodeCid": "c0050004"
+  },
+  {
+    "id": 875,
+    "ruleId": 7,
+    "lineCId": "c0050006",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~图表专线",
+    "lineCode": "TBZXZ",
+    "lastNodeCid": "c0050006"
+  },
+  {
+    "id": 876,
+    "ruleId": 7,
+    "lineCId": "c0050182",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线_图片",
+    "lineCode": "IFWPZ",
+    "lastNodeCid": "c0050182"
+  },
+  {
+    "id": 877,
+    "ruleId": 7,
+    "lineCId": "c0090046",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华０８视频~财经新闻周末版",
+    "lineCode": "YXZ17",
+    "lastNodeCid": "c0090046"
+  },
+  {
+    "id": 878,
+    "ruleId": 7,
+    "lineCId": "c0090150",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~绝对现场",
+    "lineCode": "YXB1D",
+    "lastNodeCid": "c0090150"
+  },
+  {
+    "id": 879,
+    "ruleId": 7,
+    "lineCId": "c0090152",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~军情在线",
+    "lineCode": "YXB1F",
+    "lastNodeCid": "c0090152"
+  },
+  {
+    "id": 880,
+    "ruleId": 7,
+    "lineCId": "c0090154",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~网话高科",
+    "lineCode": "YXB1H",
+    "lastNodeCid": "c0090154"
+  },
+  {
+    "id": 881,
+    "ruleId": 7,
+    "lineCId": "c0090155",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~人与社会",
+    "lineCode": "YXB1I",
+    "lastNodeCid": "c0090155"
+  },
+  {
+    "id": 882,
+    "ruleId": 7,
+    "lineCId": "c0090156",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~娱乐时尚",
+    "lineCode": "YXB1J",
+    "lastNodeCid": "c0090156"
+  },
+  {
+    "id": 883,
+    "ruleId": 7,
+    "lineCId": "c0090180",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~习近平时间",
+    "lineCode": "YXB2C",
+    "lastNodeCid": "c0090180"
+  },
+  {
+    "id": 884,
+    "ruleId": 7,
+    "lineCId": "c0090181",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~环球财讯",
+    "lineCode": "YXB2D",
+    "lastNodeCid": "c0090181"
+  },
+  {
+    "id": 885,
+    "ruleId": 7,
+    "lineCId": "c0090031",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新华视点",
+    "lineCode": "YXB13",
+    "lastNodeCid": "c0090031"
+  },
+  {
+    "id": 886,
+    "ruleId": 7,
+    "lineCId": "c0090034",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~国际新闻",
+    "lineCode": "YXB16",
+    "lastNodeCid": "c0090034"
+  },
+  {
+    "id": 887,
+    "ruleId": 7,
+    "lineCId": "c0090033",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~财经报道",
+    "lineCode": "YXB15",
+    "lastNodeCid": "c0090033"
+  },
+  {
+    "id": 888,
+    "ruleId": 7,
+    "lineCId": "c0090002",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新华纵横",
+    "lineCode": "YXB01",
+    "lastNodeCid": "c0090002"
+  },
+  {
+    "id": 889,
+    "ruleId": 7,
+    "lineCId": "c0090044",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~都市新闻",
+    "lineCode": "YXB23",
+    "lastNodeCid": "c0090044"
+  },
+  {
+    "id": 890,
+    "ruleId": 7,
+    "lineCId": "c0090059",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~镜头记忆",
+    "lineCode": "YXB28",
+    "lastNodeCid": "c0090059"
+  },
+  {
+    "id": 891,
+    "ruleId": 7,
+    "lineCId": "c0090060",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~人文天下",
+    "lineCode": "YXB29",
+    "lastNodeCid": "c0090060"
+  },
+  {
+    "id": 892,
+    "ruleId": 7,
+    "lineCId": "c0090088",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~电视通稿线路",
+    "lineCode": "YXB54",
+    "lastNodeCid": "c0090088"
+  },
+  {
+    "id": 893,
+    "ruleId": 7,
+    "lineCId": "c0090104",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~瞬间60秒",
+    "lineCode": "YXB70",
+    "lastNodeCid": "c0090104"
+  },
+  {
+    "id": 894,
+    "ruleId": 7,
+    "lineCId": "c0090110",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~环球精选",
+    "lineCode": "YXB0B",
+    "lastNodeCid": "c0090110"
+  },
+  {
+    "id": 895,
+    "ruleId": 7,
+    "lineCId": "c0090109",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~环境",
+    "lineCode": "YXB0A",
+    "lastNodeCid": "c0090109"
+  },
+  {
+    "id": 896,
+    "ruleId": 7,
+    "lineCId": "c0090122",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~最新播报",
+    "lineCode": "YXB0D",
+    "lastNodeCid": "c0090122"
+  },
+  {
+    "id": 897,
+    "ruleId": 7,
+    "lineCId": "c0090123",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~中国时间",
+    "lineCode": "YXB0E",
+    "lastNodeCid": "c0090123"
+  },
+  {
+    "id": 898,
+    "ruleId": 7,
+    "lineCId": "c0090124",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~风情周末版",
+    "lineCode": "YXB0F",
+    "lastNodeCid": "c0090124"
+  },
+  {
+    "id": 899,
+    "ruleId": 7,
+    "lineCId": "c0090159",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~通稿(高清)",
+    "lineCode": "YXH54",
+    "lastNodeCid": "c0090159"
+  },
+  {
+    "id": 900,
+    "ruleId": 7,
+    "lineCId": "c0090160",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~重大新闻(高清)",
+    "lineCode": "YXH1E",
+    "lastNodeCid": "c0090160"
+  },
+  {
+    "id": 901,
+    "ruleId": 7,
+    "lineCId": "c0090161",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~绝对现场(高清)",
+    "lineCode": "YXH1D",
+    "lastNodeCid": "c0090161"
+  },
+  {
+    "id": 902,
+    "ruleId": 7,
+    "lineCId": "c0090162",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~军情在线(高清)",
+    "lineCode": "YXH1F",
+    "lastNodeCid": "c0090162"
+  },
+  {
+    "id": 903,
+    "ruleId": 7,
+    "lineCId": "c0090163",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~财经机会(高清)",
+    "lineCode": "YXH1G",
+    "lastNodeCid": "c0090163"
+  },
+  {
+    "id": 904,
+    "ruleId": 7,
+    "lineCId": "c0090164",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~网话高科(高清)",
+    "lineCode": "YXH1H",
+    "lastNodeCid": "c0090164"
+  },
+  {
+    "id": 905,
+    "ruleId": 7,
+    "lineCId": "c0090165",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~人与社会(高清)",
+    "lineCode": "YXH1I",
+    "lastNodeCid": "c0090165"
+  },
+  {
+    "id": 906,
+    "ruleId": 7,
+    "lineCId": "c0090166",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~娱乐时尚(高清)",
+    "lineCode": "YXH1J",
+    "lastNodeCid": "c0090166"
+  },
+  {
+    "id": 907,
+    "ruleId": 7,
+    "lineCId": "c0090151",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~重大新闻",
+    "lineCode": "YXB1E",
+    "lastNodeCid": "c0090151"
+  },
+  {
+    "id": 908,
+    "ruleId": 7,
+    "lineCId": "c0090174",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新华纵横(高清)",
+    "lineCode": "YXH01",
+    "lastNodeCid": "c0090174"
+  },
+  {
+    "id": 909,
+    "ruleId": 7,
+    "lineCId": "c0090153",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~财经机会",
+    "lineCode": "YXB1G",
+    "lastNodeCid": "c0090153"
+  },
+  {
+    "id": 910,
+    "ruleId": 7,
+    "lineCId": "c0090175",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新华视点(高清)",
+    "lineCode": "YXH13",
+    "lastNodeCid": "c0090175"
+  },
+  {
+    "id": 911,
+    "ruleId": 7,
+    "lineCId": "c0090167",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~都市新闻 (高清) ",
+    "lineCode": "YXH23",
+    "lastNodeCid": "c0090167"
+  },
+  {
+    "id": 912,
+    "ruleId": 7,
+    "lineCId": "c0090168",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~财经新闻 (高清) ",
+    "lineCode": "YXH15",
+    "lastNodeCid": "c0090168"
+  },
+  {
+    "id": 913,
+    "ruleId": 7,
+    "lineCId": "c0090169",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~社会新闻周末版(高清) ",
+    "lineCode": "YXH46",
+    "lastNodeCid": "c0090169"
+  },
+  {
+    "id": 914,
+    "ruleId": 7,
+    "lineCId": "c0090170",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~财经新闻周末版(高清) ",
+    "lineCode": "YXH2A",
+    "lastNodeCid": "c0090170"
+  },
+  {
+    "id": 915,
+    "ruleId": 7,
+    "lineCId": "c0090171",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~东北亚新闻周末版(高清)",
+    "lineCode": "YXH51",
+    "lastNodeCid": "c0090171"
+  },
+  {
+    "id": 916,
+    "ruleId": 7,
+    "lineCId": "c0090172",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~风情周末版(高清) ",
+    "lineCode": "YXH0F",
+    "lastNodeCid": "c0090172"
+  },
+  {
+    "id": 917,
+    "ruleId": 7,
+    "lineCId": "c0090173",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~港台新闻周末版(高清) ",
+    "lineCode": "YXH45",
+    "lastNodeCid": "c0090173"
+  },
+  {
+    "id": 918,
+    "ruleId": 7,
+    "lineCId": "c0090177",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新华社客户端-新视频",
+    "lineCode": "YXK02",
+    "lastNodeCid": "c0090177"
+  },
+  {
+    "id": 919,
+    "ruleId": 7,
+    "lineCId": "c0090178",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线",
+    "lineCode": "YXDSP",
+    "lastNodeCid": "c0090178"
+  },
+  {
+    "id": 920,
+    "ruleId": 7,
+    "lineCId": "c0090176",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新华视频",
+    "lineCode": "YXK01",
+    "lastNodeCid": "c0090176"
+  },
+  {
+    "id": 921,
+    "ruleId": 7,
+    "lineCId": "c0030070",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~多媒体实验线路",
+    "lineCode": "XHDSY",
+    "lastNodeCid": "c0030070"
+  },
+  {
+    "id": 922,
+    "ruleId": 7,
+    "lineCId": "c0030173",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线",
+    "lineCode": "IFWZX",
+    "lastNodeCid": "c0030173"
+  },
+  {
+    "id": 923,
+    "ruleId": 7,
+    "lineCId": "c0090077",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新闻周末版~港台新闻周末版",
+    "lineCode": "YXB45",
+    "lastNodeCid": "c0090077"
+  },
+  {
+    "id": 924,
+    "ruleId": 7,
+    "lineCId": "c0090078",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新闻周末版~社会新闻周末版",
+    "lineCode": "YXB46",
+    "lastNodeCid": "c0090078"
+  },
+  {
+    "id": 925,
+    "ruleId": 7,
+    "lineCId": "c0090083",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~新闻周末版~东北亚新闻周末版",
+    "lineCode": "YXB51",
+    "lastNodeCid": "c0090083"
+  },
+  {
+    "id": 926,
+    "ruleId": 7,
+    "lineCId": "c0050022",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~国内专稿(专稿用户)组",
+    "lineCode": "GNZGZ",
+    "lastNodeCid": "c0050022"
+  },
+  {
+    "id": 927,
+    "ruleId": 7,
+    "lineCId": "c0050184",
+    "lineName": "线路~中文~代理图片~外代图片一线",
+    "lineCode": "WDTP1",
+    "lastNodeCid": "c0050184"
+  },
+  {
+    "id": 928,
+    "ruleId": 7,
+    "lineCId": "c0050185",
+    "lineName": "线路~中文~代理图片~外代图片二线",
+    "lineCode": "WDTP2",
+    "lastNodeCid": "c0050185"
+  },
+  {
+    "id": 929,
+    "ruleId": 7,
+    "lineCId": "c0050187",
+    "lineName": "线路~中文~代理图片~外代图片英文专线",
+    "lineCode": "WDENG",
+    "lastNodeCid": "c0050187"
+  },
+  {
+    "id": 930,
+    "ruleId": 7,
+    "lineCId": "c0090157",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua TV~Multimedia(HD)",
+    "lineCode": "YXH35",
+    "lastNodeCid": "c0090157"
+  },
+  {
+    "id": 931,
+    "ruleId": 7,
+    "lineCId": "c0090158",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua TV~NEWS FEEDS(HD)",
+    "lineCode": "YXH24",
+    "lastNodeCid": "c0090158"
+  },
+  {
+    "id": 932,
+    "ruleId": 7,
+    "lineCId": "c0090094",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua TV~CHINA REPORT",
+    "lineCode": "YXB60",
+    "lastNodeCid": "c0090094"
+  },
+  {
+    "id": 935,
+    "ruleId": 8,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 936,
+    "ruleId": 12,
+    "lineCId": "c0030045",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~China and Asia-Pacific News Service",
+    "lineCode": "XHYYT",
+    "lastNodeCid": "c0030045"
+  },
+  {
+    "id": 937,
+    "ruleId": 12,
+    "lineCId": "c0030074",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~China African News Service",
+    "lineCode": "XHZAF",
+    "lastNodeCid": "c0030074"
+  },
+  {
+    "id": 938,
+    "ruleId": 12,
+    "lineCId": "c0030098",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua Domestic Users\u0027 Service",
+    "lineCode": "EEZBL",
+    "lastNodeCid": "c0030098"
+  },
+  {
+    "id": 939,
+    "ruleId": 12,
+    "lineCId": "c0030069",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua new media service",
+    "lineCode": "XHTME",
+    "lastNodeCid": "c0030069"
+  },
+  {
+    "id": 962,
+    "ruleId": 14,
+    "lineCId": "c0030045",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~China and Asia-Pacific News Service",
+    "lineCode": "XHYYT",
+    "lastNodeCid": "c0030045"
+  },
+  {
+    "id": 963,
+    "ruleId": 14,
+    "lineCId": "c0030074",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~China African News Service",
+    "lineCode": "XHZAF",
+    "lastNodeCid": "c0030074"
+  },
+  {
+    "id": 964,
+    "ruleId": 14,
+    "lineCId": "c0030098",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua Domestic Users\u0027 Service",
+    "lineCode": "EEZBL",
+    "lastNodeCid": "c0030098"
+  },
+  {
+    "id": 1064,
+    "ruleId": 11,
+    "lineCId": "c0030098",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua Domestic Users\u0027 Service",
+    "lineCode": "EEZBL",
+    "lastNodeCid": "c0030098"
+  },
+  {
+    "id": 1066,
+    "ruleId": 15,
+    "lineCId": "c0030098",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua Domestic Users\u0027 Service",
+    "lineCode": "EEZBL",
+    "lastNodeCid": "c0030098"
+  },
+  {
+    "id": 1067,
+    "ruleId": 15,
+    "lineCId": "c0030002",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~通稿新闻线路",
+    "columnCategory": "受权发布;新华社社评;新华社评论员文章",
+    "lineCode": "XHZSS",
+    "columnCodes": "001,002,003",
+    "columnCids": "c0030002001,c0030002002,c0030002003",
+    "lastNodeCid": "c0030002001,c0030002002,c0030002003"
+  },
+  {
+    "id": 1068,
+    "ruleId": 15,
+    "lineCId": "c0030015",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~海外中文专线",
+    "lineCode": "XHZHH",
+    "lastNodeCid": "c0030015"
+  },
+  {
+    "id": 1069,
+    "ruleId": 15,
+    "lineCId": "c0030017",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~中文亚太线",
+    "lineCode": "XHZYT",
+    "lastNodeCid": "c0030017"
+  },
+  {
+    "id": 1070,
+    "ruleId": 15,
+    "lineCId": "c0030173",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线",
+    "columnCategory": "学习进行时;反腐纪事;中国网事;新华视点",
+    "lineCode": "IFWZX",
+    "columnCodes": "701,702,703,704",
+    "columnCids": "c0030173001,c0030173002,c0030173003,c0030173004",
+    "lastNodeCid": "c0030173001,c0030173002,c0030173003,c0030173004"
+  },
+  {
+    "id": 1087,
+    "ruleId": 16,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1088,
+    "ruleId": 17,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1090,
+    "ruleId": 13,
+    "lineCId": "c0030045",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~China and Asia-Pacific News Service",
+    "lineCode": "XHYYT",
+    "lastNodeCid": "c0030045"
+  },
+  {
+    "id": 1091,
+    "ruleId": 13,
+    "lineCId": "c0030074",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~China African News Service",
+    "lineCode": "XHZAF",
+    "lastNodeCid": "c0030074"
+  },
+  {
+    "id": 1092,
+    "ruleId": 13,
+    "lineCId": "c0030069",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua new media service",
+    "lineCode": "XHTME",
+    "lastNodeCid": "c0030069"
+  },
+  {
+    "id": 1093,
+    "ruleId": 13,
+    "lineCId": "c0030026",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua News Bulletin",
+    "lineCode": "EEEEE",
+    "lastNodeCid": "c0030026"
+  },
+  {
+    "id": 1094,
+    "ruleId": 13,
+    "lineCId": "c0050140",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua Photo~Korean Central News Agency",
+    "lineCode": "CZEZG",
+    "lastNodeCid": "c0050140"
+  },
+  {
+    "id": 1095,
+    "ruleId": 13,
+    "lineCId": "c0050019",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua Photo~Special Line of English News for Overseas Service",
+    "lineCode": "YWDYZ",
+    "lastNodeCid": "c0050019"
+  },
+  {
+    "id": 1096,
+    "ruleId": 13,
+    "lineCId": "c0050114",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua Photo~English Photo service for Africa",
+    "lineCode": "YWFZZ",
+    "lastNodeCid": "c0050114"
+  },
+  {
+    "id": 1097,
+    "ruleId": 13,
+    "lineCId": "c0110039",
+    "lineName": "线路~社外电讯~德新社英文图片",
+    "lineCode": "DAENP",
+    "lastNodeCid": "c0110039"
+  },
+  {
+    "id": 1098,
+    "ruleId": 13,
+    "lineCId": "c0050179",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Facebook~[Facebook]XinhuaNewsAgency",
+    "lineCode": "FBXNA",
+    "lastNodeCid": "c0050179"
+  },
+  {
+    "id": 1099,
+    "ruleId": 13,
+    "lineCId": "c0030306",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Facebook~[Facebook]NewChina体育",
+    "lineCode": "FBNSP",
+    "lastNodeCid": "c0030306"
+  },
+  {
+    "id": 1100,
+    "ruleId": 13,
+    "lineCId": "c0030305",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Twitter~[Twitter]NewChina体育",
+    "lineCode": "TTNSP",
+    "lastNodeCid": "c0030305"
+  },
+  {
+    "id": 1101,
+    "ruleId": 13,
+    "lineCId": "c0030136",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Twitter~[Twitter]NewChina英文",
+    "lineCode": "TTWXH",
+    "lastNodeCid": "c0030136"
+  },
+  {
+    "id": 1102,
+    "ruleId": 13,
+    "lineCId": "c0030168",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Youtube~[Youtube]NewChina英文",
+    "lineCode": "YTCNV",
+    "lastNodeCid": "c0030168"
+  },
+  {
+    "id": 1103,
+    "ruleId": 13,
+    "lineCId": "c0030260",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~微博~[Facebook]新华欧洲",
+    "lineCode": "FBXEU",
+    "lastNodeCid": "c0030260"
+  },
+  {
+    "id": 1104,
+    "ruleId": 13,
+    "lineCId": "c0030261",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~微博~[Twitter]Xinhua　Europe",
+    "lineCode": "TTWEU",
+    "lastNodeCid": "c0030261"
+  },
+  {
+    "id": 1105,
+    "ruleId": 13,
+    "lineCId": "c0030098",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua Domestic Users\u0027 Service",
+    "lineCode": "EEZBL",
+    "lastNodeCid": "c0030098"
+  },
+  {
+    "id": 1107,
+    "ruleId": 19,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1109,
+    "ruleId": 20,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1110,
+    "ruleId": 21,
+    "lineCId": "c0059101",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~图片素材线",
+    "lineCode": "TPSCX",
+    "lastNodeCid": "c0059101"
+  },
+  {
+    "id": 1114,
+    "ruleId": 22,
+    "lineCId": "c0030368",
+    "lineName": "线路~中文~新华社成品库~新华社图片~新华社实时图片~IOPP赛时照片交换",
+    "lineCode": "IOPPP",
+    "lastNodeCid": "c0030368"
+  },
+  {
+    "id": 1116,
+    "ruleId": 23,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1118,
+    "ruleId": 25,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1119,
+    "ruleId": 26,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1123,
+    "ruleId": 27,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  },
+  {
+    "id": 1124,
+    "ruleId": 28,
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "lineCode": "ALL",
+    "lastNodeCid": "ALL"
+  }
+]

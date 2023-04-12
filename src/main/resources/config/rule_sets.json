@@ -1,0 +1,110 @@
+[
+  {
+    "id": 15,
+    "setName": "文字未定稿件分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "semif/t_cnml/",
+    "cataName": "name_dis/",
+    "cataText": "text/",
+    "quartz": "0/5 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 20,
+    "setName": "过程稿分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "process/",
+    "cataName": "name/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 22,
+    "setName": "经济信息成品稿分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "finished/e_cnml/",
+    "cataName": "name/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 23,
+    "setName": "图片成品稿分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "finished/p_cnml/",
+    "cataName": "name/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 24,
+    "setName": "视频成品稿分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/receivedata/",
+    "catalog": "video_news/",
+    "cataName": "name_dis/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 25,
+    "setName": "文字成品稿分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "finished/t_cnml/",
+    "cataName": "name_dis/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 26,
+    "setName": "图片敏感稿分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "sensitive/p_cnml/",
+    "cataName": "name/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 27,
+    "setName": "新媒体专线（文字）稿件待分发",
+    "setType": "1",
+    "rootCatalog": "/receivedatanas/txxt/",
+    "catalog": "finished/ifwzxCF/",
+    "cataName": "name/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 1,
+    "ruleCount": 0
+  },
+  {
+    "id": 29,
+    "setName": "测试",
+    "setType": "1",
+    "rootCatalog": "/allydata/nasdata/txxt/",
+    "catalog": "semif/p_cnml/",
+    "cataName": "name/",
+    "cataText": "text/",
+    "quartz": "0/1 * * * * ?",
+    "status": 0,
+    "ruleCount": 0
+  }
+]

@@ -1,0 +1,3044 @@
+[
+  {
+    "id": 17,
+    "ruleId": 46,
+    "ruleName": "图片稿件给图传系统",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 19,
+    "ruleId": 48,
+    "ruleName": "aa",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 21,
+    "ruleId": 49,
+    "ruleName": "所有视频稿给音视频系统",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 24,
+    "ruleId": 51,
+    "ruleName": "所有视频稿给音视频系统绿区接口机",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 25,
+    "ruleId": 50,
+    "ruleName": "签发给音视频系统的非视频稿",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 26,
+    "ruleId": 52,
+    "ruleName": "视频成品稿送微博发布系统",
+    "lineCId": "c0030236",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~微博~[Facebook]NewChina英文",
+    "relation": 0,
+    "lineCode": "FBXNA"
+  },
+  {
+    "id": 27,
+    "ruleId": 52,
+    "ruleName": "视频成品稿送微博发布系统",
+    "lineCId": "c0030168",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Youtube~[Youtube]NewChina英文",
+    "relation": 0,
+    "lineCode": "YTCNV"
+  },
+  {
+    "id": 28,
+    "ruleId": 52,
+    "ruleName": "视频成品稿送微博发布系统",
+    "lineCId": "c0030136",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~Twitter~[Twitter]NewChina英文",
+    "relation": 0,
+    "lineCode": "TTWXH"
+  },
+  {
+    "id": 30,
+    "ruleId": 53,
+    "ruleName": "视频成品稿送待编稿库",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 35,
+    "ruleId": 56,
+    "ruleName": "视频成品稿送东坝",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 36,
+    "ruleId": 55,
+    "ruleName": "视频成品稿送数据平台",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 37,
+    "ruleId": 54,
+    "ruleName": "视频成品稿送新媒体数据库",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 45,
+    "ruleId": 59,
+    "ruleName": "图片敏感稿送图传编辑系统",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 46,
+    "ruleId": 58,
+    "ruleName": "图片敏感稿送新采编图片系统",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 650,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c0030070",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~多媒体实验线路",
+    "relation": 0,
+    "lineCode": "XHDSY"
+  },
+  {
+    "id": 651,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~房产建筑",
+    "relation": 0,
+    "lineCode": "JCHAM"
+  },
+  {
+    "id": 652,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~食品饮料信息",
+    "relation": 0,
+    "lineCode": "JCHAQ"
+  },
+  {
+    "id": 653,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~科技信息",
+    "relation": 0,
+    "lineCode": "JCHAK"
+  },
+  {
+    "id": 654,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~造纸包装信息",
+    "relation": 0,
+    "lineCode": "JCHAZ"
+  },
+  {
+    "id": 655,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~环保信息",
+    "relation": 0,
+    "lineCode": "JCHAF"
+  },
+  {
+    "id": 656,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息日用消费品",
+    "relation": 0,
+    "lineCode": "JCHAR"
+  },
+  {
+    "id": 657,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息化工",
+    "relation": 0,
+    "lineCode": "JCHAS"
+  },
+  {
+    "id": 658,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001010",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息纺织服装",
+    "relation": 0,
+    "lineCode": "JCHAT"
+  },
+  {
+    "id": 659,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息机械",
+    "relation": 0,
+    "lineCode": "JCHAU"
+  },
+  {
+    "id": 660,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息汽车",
+    "relation": 0,
+    "lineCode": "JCHAV"
+  },
+  {
+    "id": 661,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息IT家电",
+    "relation": 0,
+    "lineCode": "JCHAA"
+  },
+  {
+    "id": 662,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001013",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~海南医院",
+    "relation": 0,
+    "lineCode": "JCHBA"
+  },
+  {
+    "id": 663,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~三宝双喜",
+    "relation": 0,
+    "lineCode": "JCHBB"
+  },
+  {
+    "id": 664,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202001011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~医药制药业",
+    "relation": 0,
+    "lineCode": "JCHAN"
+  },
+  {
+    "id": 665,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户1",
+    "relation": 0,
+    "lineCode": "JDWAC"
+  },
+  {
+    "id": 666,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户2",
+    "relation": 0,
+    "lineCode": "JDWAD"
+  },
+  {
+    "id": 667,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户3",
+    "relation": 0,
+    "lineCode": "JDWAE"
+  },
+  {
+    "id": 668,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户4",
+    "relation": 0,
+    "lineCode": "JDWAF"
+  },
+  {
+    "id": 669,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户5",
+    "relation": 0,
+    "lineCode": "JDWAG"
+  },
+  {
+    "id": 670,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户6",
+    "relation": 0,
+    "lineCode": "JDWAH"
+  },
+  {
+    "id": 671,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户7",
+    "relation": 0,
+    "lineCode": "JDWAI"
+  },
+  {
+    "id": 672,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户8",
+    "relation": 0,
+    "lineCode": "JDWAJ"
+  },
+  {
+    "id": 673,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户9",
+    "relation": 0,
+    "lineCode": "JDWAK"
+  },
+  {
+    "id": 674,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户10",
+    "relation": 0,
+    "lineCode": "JDWAL"
+  },
+  {
+    "id": 675,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户11",
+    "relation": 0,
+    "lineCode": "JDWAN"
+  },
+  {
+    "id": 676,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009015",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户12",
+    "relation": 0,
+    "lineCode": "JDWAO"
+  },
+  {
+    "id": 677,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009016",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户13",
+    "relation": 0,
+    "lineCode": "JDWAP"
+  },
+  {
+    "id": 678,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009017",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户14",
+    "relation": 0,
+    "lineCode": "JDWAQ"
+  },
+  {
+    "id": 679,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009018",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户15",
+    "relation": 0,
+    "lineCode": "JDWAR"
+  },
+  {
+    "id": 680,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26013016",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~亚洲网信息",
+    "relation": 0,
+    "lineCode": "JDWAM"
+  },
+  {
+    "id": 681,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~中国经济信息（中文版）",
+    "relation": 0,
+    "lineCode": "JDWAA"
+  },
+  {
+    "id": 682,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202009013",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~新华经济观察",
+    "relation": 0,
+    "lineCode": "JDWAB"
+  },
+  {
+    "id": 683,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~证券专线信息",
+    "relation": 0,
+    "lineCode": "JHQAH"
+  },
+  {
+    "id": 684,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~金融信息",
+    "relation": 0,
+    "lineCode": "JHQAC"
+  },
+  {
+    "id": 685,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~经贸信息",
+    "relation": 0,
+    "lineCode": "JHQAB"
+  },
+  {
+    "id": 686,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~农业信息",
+    "relation": 0,
+    "lineCode": "JHQAD"
+  },
+  {
+    "id": 687,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~石油信息",
+    "relation": 0,
+    "lineCode": "JHQAI"
+  },
+  {
+    "id": 688,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~港股信息",
+    "relation": 0,
+    "lineCode": "JHQAJ"
+  },
+  {
+    "id": 689,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006010",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~综合财经信息专供",
+    "relation": 0,
+    "lineCode": "JHQAK"
+  },
+  {
+    "id": 690,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~环球财经专供",
+    "relation": 0,
+    "lineCode": "JHQAN"
+  },
+  {
+    "id": 691,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~金属信息",
+    "relation": 0,
+    "lineCode": "JHQAE"
+  },
+  {
+    "id": 692,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~农产品信息",
+    "relation": 0,
+    "lineCode": "JHQAF"
+  },
+  {
+    "id": 693,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202006003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~能源信息",
+    "relation": 0,
+    "lineCode": "JHQAG"
+  },
+  {
+    "id": 694,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~专家思想库",
+    "relation": 0,
+    "lineCode": "JJFAE"
+  },
+  {
+    "id": 695,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~行业数据分析报告",
+    "relation": 0,
+    "lineCode": "JJFAF"
+  },
+  {
+    "id": 696,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济分析报告",
+    "relation": 0,
+    "lineCode": "JJFAG"
+  },
+  {
+    "id": 697,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~市场研究报告",
+    "relation": 0,
+    "lineCode": "JJFAH"
+  },
+  {
+    "id": 698,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~专题定制咨询报告",
+    "relation": 0,
+    "lineCode": "JJFAI"
+  },
+  {
+    "id": 699,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008010",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~代理报告产品",
+    "relation": 0,
+    "lineCode": "JJFAJ"
+  },
+  {
+    "id": 700,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~管理知识库",
+    "relation": 0,
+    "lineCode": "JJFAK"
+  },
+  {
+    "id": 701,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济信息专刊",
+    "relation": 0,
+    "lineCode": "JJFAL"
+  },
+  {
+    "id": 702,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26008007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~行业监测服务",
+    "relation": 0,
+    "lineCode": "JJFAM"
+  },
+  {
+    "id": 703,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~综合信息专供",
+    "relation": 0,
+    "lineCode": "JJFAN"
+  },
+  {
+    "id": 704,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26008008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~新产品研发",
+    "relation": 0,
+    "lineCode": "JJFAO"
+  },
+  {
+    "id": 705,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008020",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~新华时讯通",
+    "relation": 0,
+    "lineCode": "JJFAQ"
+  },
+  {
+    "id": 706,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008016",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~新华资讯",
+    "relation": 0,
+    "lineCode": "JZXAA"
+  },
+  {
+    "id": 707,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26008007015",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~农产品监测",
+    "relation": 0,
+    "lineCode": "JJFAR"
+  },
+  {
+    "id": 708,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008018",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~农资监测",
+    "relation": 0,
+    "lineCode": "JJFAS"
+  },
+  {
+    "id": 709,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008019",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~房地产建材监测",
+    "relation": 0,
+    "lineCode": "JJFAT"
+  },
+  {
+    "id": 710,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~每日财经分析",
+    "relation": 0,
+    "lineCode": "JJFAA"
+  },
+  {
+    "id": 711,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济分析",
+    "relation": 0,
+    "lineCode": "JJFAB"
+  },
+  {
+    "id": 712,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济数据",
+    "relation": 0,
+    "lineCode": "JJFAC"
+  },
+  {
+    "id": 713,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202008004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~专题报告",
+    "relation": 0,
+    "lineCode": "JJFAD"
+  },
+  {
+    "id": 714,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202007004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华短信专线~新华社信息短信",
+    "relation": 0,
+    "lineCode": "JDXAD"
+  },
+  {
+    "id": 715,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202007001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华短信专线~新华短信",
+    "relation": 0,
+    "lineCode": "JDXAA"
+  },
+  {
+    "id": 716,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线",
+    "relation": 0,
+    "lineCode": "JXXAS"
+  },
+  {
+    "id": 717,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005093",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~APEC专题",
+    "relation": 0,
+    "lineCode": "DK101"
+  },
+  {
+    "id": 718,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005094",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~APEC图片库",
+    "relation": 0,
+    "lineCode": "DK102"
+  },
+  {
+    "id": 719,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005095",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~WTO专题",
+    "relation": 0,
+    "lineCode": "DK103"
+  },
+  {
+    "id": 720,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005096",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~朝鲜核问题",
+    "relation": 0,
+    "lineCode": "DK104"
+  },
+  {
+    "id": 721,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005097",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~东南亚专题",
+    "relation": 0,
+    "lineCode": "DK105"
+  },
+  {
+    "id": 722,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005098",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~反恐怖专题",
+    "relation": 0,
+    "lineCode": "DK106"
+  },
+  {
+    "id": 723,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005099",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~反倾销专题",
+    "relation": 0,
+    "lineCode": "DK107"
+  },
+  {
+    "id": 724,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005106",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~非典专题",
+    "relation": 0,
+    "lineCode": "DK108"
+  },
+  {
+    "id": 725,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005107",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~非典专题（图片）",
+    "relation": 0,
+    "lineCode": "DK109"
+  },
+  {
+    "id": 726,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005108",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~美伊专题",
+    "relation": 0,
+    "lineCode": "DK110"
+  },
+  {
+    "id": 727,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005109",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~美伊专题（网络图片）",
+    "relation": 0,
+    "lineCode": "DK111"
+  },
+  {
+    "id": 728,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005110",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~美伊专题（新华社图片）",
+    "relation": 0,
+    "lineCode": "DK112"
+  },
+  {
+    "id": 729,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005111",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~党代会专题",
+    "relation": 0,
+    "lineCode": "DK113"
+  },
+  {
+    "id": 730,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005112",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~中国共产党专题",
+    "relation": 0,
+    "lineCode": "DK114"
+  },
+  {
+    "id": 731,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005113",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~宗教专题",
+    "relation": 0,
+    "lineCode": "DK115"
+  },
+  {
+    "id": 732,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005114",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~台湾公投专题",
+    "relation": 0,
+    "lineCode": "DK116"
+  },
+  {
+    "id": 733,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~新华图片库",
+    "relation": 0,
+    "lineCode": "DK119"
+  },
+  {
+    "id": 734,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005063",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~奥运专题",
+    "relation": 0,
+    "lineCode": "DK117"
+  },
+  {
+    "id": 735,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~背景动态库",
+    "relation": 0,
+    "lineCode": "DK118"
+  },
+  {
+    "id": 736,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~挑选信息库",
+    "relation": 0,
+    "lineCode": "DK120"
+  },
+  {
+    "id": 737,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005036",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~走出去专题",
+    "relation": 0,
+    "lineCode": "DK121"
+  },
+  {
+    "id": 738,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005026",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~伊朗核专题",
+    "relation": 0,
+    "lineCode": "DK122"
+  },
+  {
+    "id": 739,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005101",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~汶川地震",
+    "relation": 0,
+    "lineCode": "DK124"
+  },
+  {
+    "id": 740,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005062",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~不发布-开行大连分行客户数据库",
+    "relation": 0,
+    "lineCode": "DK123"
+  },
+  {
+    "id": 741,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005057",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~政务经济信息库",
+    "relation": 0,
+    "lineCode": "DK126"
+  },
+  {
+    "id": 742,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005058",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~舆情报告库",
+    "relation": 0,
+    "lineCode": "DK127"
+  },
+  {
+    "id": 743,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005064",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~海外内部信息",
+    "relation": 0,
+    "lineCode": "DK128"
+  },
+  {
+    "id": 744,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005055",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~教育观察",
+    "relation": 0,
+    "lineCode": "DK129"
+  },
+  {
+    "id": 745,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005059",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~电子信息库",
+    "relation": 0,
+    "lineCode": "DK130"
+  },
+  {
+    "id": 746,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005056",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~企业专供RA",
+    "relation": 0,
+    "lineCode": "DK131"
+  },
+  {
+    "id": 747,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005060",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~企业专供RB",
+    "relation": 0,
+    "lineCode": "DK132"
+  },
+  {
+    "id": 748,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005124",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~工商财税库",
+    "relation": 0,
+    "lineCode": "DK134"
+  },
+  {
+    "id": 749,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005122",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~浙江消防舆情",
+    "relation": 0,
+    "lineCode": "DK135"
+  },
+  {
+    "id": 750,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005123",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~政务信息库3",
+    "relation": 0,
+    "lineCode": "DK136"
+  },
+  {
+    "id": 751,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005128",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~外媒报道（北京市新闻办）",
+    "relation": 0,
+    "lineCode": "DK137"
+  },
+  {
+    "id": 752,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005129",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~新华舆情北京",
+    "relation": 0,
+    "lineCode": "DK138"
+  },
+  {
+    "id": 753,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005130",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~汽车能源专线",
+    "relation": 0,
+    "lineCode": "DK139"
+  },
+  {
+    "id": 754,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005120",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~2014金融库(新)",
+    "relation": 0,
+    "lineCode": "DK140"
+  },
+  {
+    "id": 755,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005131",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~专供周报库",
+    "relation": 0,
+    "lineCode": "DK141"
+  },
+  {
+    "id": 756,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005127",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~舆情专线咨询产品库",
+    "relation": 0,
+    "lineCode": "DK142"
+  },
+  {
+    "id": 757,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005126",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~银行费率",
+    "relation": 0,
+    "lineCode": "DK143"
+  },
+  {
+    "id": 758,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202005121",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~网游专供库",
+    "relation": 0,
+    "lineCode": "DK144"
+  },
+  {
+    "id": 759,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~管理知识库",
+    "relation": 0,
+    "lineCode": "JCJAH"
+  },
+  {
+    "id": 760,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~专题定制报告",
+    "relation": 0,
+    "lineCode": "JCJAI"
+  },
+  {
+    "id": 761,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~行业数据",
+    "relation": 0,
+    "lineCode": "JCJAJ"
+  },
+  {
+    "id": 762,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~行业监测报告",
+    "relation": 0,
+    "lineCode": "JCJAK"
+  },
+  {
+    "id": 763,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~代理报告",
+    "relation": 0,
+    "lineCode": "JCJAL"
+  },
+  {
+    "id": 764,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~“秘书＋顾问”政务决策支持系统·领导版",
+    "relation": 0,
+    "lineCode": "JCJAN"
+  },
+  {
+    "id": 765,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~新华每周金融分析",
+    "relation": 0,
+    "lineCode": "JCJAM"
+  },
+  {
+    "id": 766,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26010001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~新华每日财经分析",
+    "relation": 0,
+    "lineCode": "JCJAA"
+  },
+  {
+    "id": 767,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~新华每周财经分析",
+    "relation": 0,
+    "lineCode": "JCJAB"
+  },
+  {
+    "id": 768,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~铜业决策顾问",
+    "relation": 0,
+    "lineCode": "JCJAD"
+  },
+  {
+    "id": 769,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202010013",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~铝业决策顾问",
+    "relation": 0,
+    "lineCode": "JCJAE"
+  },
+  {
+    "id": 770,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26010005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~分析报告库",
+    "relation": 0,
+    "lineCode": "JCJAF"
+  },
+  {
+    "id": 771,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中文大客户",
+    "relation": 0,
+    "lineCode": "JDWAS"
+  },
+  {
+    "id": 772,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告库",
+    "relation": 0,
+    "lineCode": "JZHAH"
+  },
+  {
+    "id": 773,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋经济参考",
+    "relation": 0,
+    "lineCode": "JHYAA"
+  },
+  {
+    "id": 774,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋综合管理",
+    "relation": 0,
+    "lineCode": "JHYAB"
+  },
+  {
+    "id": 775,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋资源与环境",
+    "relation": 0,
+    "lineCode": "JHYAC"
+  },
+  {
+    "id": 776,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋经贸",
+    "relation": 0,
+    "lineCode": "JHYAD"
+  },
+  {
+    "id": 777,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋金融",
+    "relation": 0,
+    "lineCode": "JHYAE"
+  },
+  {
+    "id": 778,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋科技",
+    "relation": 0,
+    "lineCode": "JHYAF"
+  },
+  {
+    "id": 779,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋文化",
+    "relation": 0,
+    "lineCode": "JHYAG"
+  },
+  {
+    "id": 780,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋法律与权益",
+    "relation": 0,
+    "lineCode": "JHYAH"
+  },
+  {
+    "id": 781,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202022007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海上丝绸之路",
+    "relation": 0,
+    "lineCode": "JHYAI"
+  },
+  {
+    "id": 782,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202026",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华08精华版",
+    "relation": 0,
+    "lineCode": "JHB08"
+  },
+  {
+    "id": 783,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202021",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华08网站",
+    "relation": 0,
+    "lineCode": "WEB08"
+  },
+  {
+    "id": 784,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202029001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~统计数据库",
+    "relation": 0,
+    "lineCode": "JZHAF"
+  },
+  {
+    "id": 785,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202029002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~公司信息库",
+    "relation": 0,
+    "lineCode": "JZHAA"
+  },
+  {
+    "id": 786,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202029003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~产经分析库",
+    "relation": 0,
+    "lineCode": "JZHAB"
+  },
+  {
+    "id": 787,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202029004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~新产品新技术库",
+    "relation": 0,
+    "lineCode": "JZHAE"
+  },
+  {
+    "id": 788,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202029005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~决策参考库",
+    "relation": 0,
+    "lineCode": "JZHAC"
+  },
+  {
+    "id": 789,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202029006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~政策法规库",
+    "relation": 0,
+    "lineCode": "JZHAD"
+  },
+  {
+    "id": 790,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202020001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~金融信息专线~财经资讯",
+    "relation": 0,
+    "lineCode": "JXCBK"
+  },
+  {
+    "id": 791,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202020002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~金融信息专线~一带一路信息服务",
+    "relation": 0,
+    "lineCode": "JZXAC"
+  },
+  {
+    "id": 792,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26005001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息（综合版）",
+    "relation": 0,
+    "lineCode": "JGFAA"
+  },
+  {
+    "id": 793,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202002006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(教育版)",
+    "relation": 0,
+    "lineCode": "JGFAB"
+  },
+  {
+    "id": 794,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202002004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(法制版)",
+    "relation": 0,
+    "lineCode": "JGFAD"
+  },
+  {
+    "id": 795,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202002001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(海外版)",
+    "relation": 0,
+    "lineCode": "JGFAF"
+  },
+  {
+    "id": 796,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202002005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(媒体集粹)",
+    "relation": 0,
+    "lineCode": "JGFAE"
+  },
+  {
+    "id": 797,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26005005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~建设社会主义新农村专题",
+    "relation": 0,
+    "lineCode": "JGFAJ"
+  },
+  {
+    "id": 798,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c210202002007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~职业和成人教育",
+    "relation": 0,
+    "lineCode": "JGFAP"
+  },
+  {
+    "id": 799,
+    "ruleId": 41,
+    "ruleName": "经济信息成品稿分发给中经社",
+    "lineCId": "c26005011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~京津冀时讯通",
+    "relation": 0,
+    "lineCode": "JJSXT"
+  },
+  {
+    "id": 800,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~房产建筑",
+    "relation": 0,
+    "lineCode": "JCHAM"
+  },
+  {
+    "id": 801,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~食品饮料信息",
+    "relation": 0,
+    "lineCode": "JCHAQ"
+  },
+  {
+    "id": 802,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~科技信息",
+    "relation": 0,
+    "lineCode": "JCHAK"
+  },
+  {
+    "id": 803,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~造纸包装信息",
+    "relation": 0,
+    "lineCode": "JCHAZ"
+  },
+  {
+    "id": 804,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~环保信息",
+    "relation": 0,
+    "lineCode": "JCHAF"
+  },
+  {
+    "id": 805,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息日用消费品",
+    "relation": 0,
+    "lineCode": "JCHAR"
+  },
+  {
+    "id": 806,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息化工",
+    "relation": 0,
+    "lineCode": "JCHAS"
+  },
+  {
+    "id": 807,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001010",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息纺织服装",
+    "relation": 0,
+    "lineCode": "JCHAT"
+  },
+  {
+    "id": 808,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息机械",
+    "relation": 0,
+    "lineCode": "JCHAU"
+  },
+  {
+    "id": 809,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息汽车",
+    "relation": 0,
+    "lineCode": "JCHAV"
+  },
+  {
+    "id": 810,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~产经综合信息IT家电",
+    "relation": 0,
+    "lineCode": "JCHAA"
+  },
+  {
+    "id": 811,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001013",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~海南医院",
+    "relation": 0,
+    "lineCode": "JCHBA"
+  },
+  {
+    "id": 812,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~三宝双喜",
+    "relation": 0,
+    "lineCode": "JCHBB"
+  },
+  {
+    "id": 813,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202001011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~产业信息专线~医药制药业",
+    "relation": 0,
+    "lineCode": "JCHAN"
+  },
+  {
+    "id": 814,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户1",
+    "relation": 0,
+    "lineCode": "JDWAC"
+  },
+  {
+    "id": 815,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户2",
+    "relation": 0,
+    "lineCode": "JDWAD"
+  },
+  {
+    "id": 816,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户3",
+    "relation": 0,
+    "lineCode": "JDWAE"
+  },
+  {
+    "id": 817,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户4",
+    "relation": 0,
+    "lineCode": "JDWAF"
+  },
+  {
+    "id": 818,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户5",
+    "relation": 0,
+    "lineCode": "JDWAG"
+  },
+  {
+    "id": 819,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户6",
+    "relation": 0,
+    "lineCode": "JDWAH"
+  },
+  {
+    "id": 820,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户7",
+    "relation": 0,
+    "lineCode": "JDWAI"
+  },
+  {
+    "id": 821,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户8",
+    "relation": 0,
+    "lineCode": "JDWAJ"
+  },
+  {
+    "id": 822,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户9",
+    "relation": 0,
+    "lineCode": "JDWAK"
+  },
+  {
+    "id": 823,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户10",
+    "relation": 0,
+    "lineCode": "JDWAL"
+  },
+  {
+    "id": 824,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户11",
+    "relation": 0,
+    "lineCode": "JDWAN"
+  },
+  {
+    "id": 825,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009015",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户12",
+    "relation": 0,
+    "lineCode": "JDWAO"
+  },
+  {
+    "id": 826,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009016",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户13",
+    "relation": 0,
+    "lineCode": "JDWAP"
+  },
+  {
+    "id": 827,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009017",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户14",
+    "relation": 0,
+    "lineCode": "JDWAQ"
+  },
+  {
+    "id": 828,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009018",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~专供海外大客户15",
+    "relation": 0,
+    "lineCode": "JDWAR"
+  },
+  {
+    "id": 829,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26013016",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~亚洲网信息",
+    "relation": 0,
+    "lineCode": "JDWAM"
+  },
+  {
+    "id": 830,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~中国经济信息（中文版）",
+    "relation": 0,
+    "lineCode": "JDWAA"
+  },
+  {
+    "id": 831,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202009013",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中日文信息专线~新华经济观察",
+    "relation": 0,
+    "lineCode": "JDWAB"
+  },
+  {
+    "id": 832,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~证券专线信息",
+    "relation": 0,
+    "lineCode": "JHQAH"
+  },
+  {
+    "id": 833,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~金融信息",
+    "relation": 0,
+    "lineCode": "JHQAC"
+  },
+  {
+    "id": 834,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~经贸信息",
+    "relation": 0,
+    "lineCode": "JHQAB"
+  },
+  {
+    "id": 835,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~农业信息",
+    "relation": 0,
+    "lineCode": "JHQAD"
+  },
+  {
+    "id": 836,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~石油信息",
+    "relation": 0,
+    "lineCode": "JHQAI"
+  },
+  {
+    "id": 837,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~港股信息",
+    "relation": 0,
+    "lineCode": "JHQAJ"
+  },
+  {
+    "id": 838,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006010",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~综合财经信息专供",
+    "relation": 0,
+    "lineCode": "JHQAK"
+  },
+  {
+    "id": 839,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~环球财经专供",
+    "relation": 0,
+    "lineCode": "JHQAN"
+  },
+  {
+    "id": 840,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~金属信息",
+    "relation": 0,
+    "lineCode": "JHQAE"
+  },
+  {
+    "id": 841,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~农产品信息",
+    "relation": 0,
+    "lineCode": "JHQAF"
+  },
+  {
+    "id": 842,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202006003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~环球财经信息专线~能源信息",
+    "relation": 0,
+    "lineCode": "JHQAG"
+  },
+  {
+    "id": 843,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~专家思想库",
+    "relation": 0,
+    "lineCode": "JJFAE"
+  },
+  {
+    "id": 844,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~行业数据分析报告",
+    "relation": 0,
+    "lineCode": "JJFAF"
+  },
+  {
+    "id": 845,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济分析报告",
+    "relation": 0,
+    "lineCode": "JJFAG"
+  },
+  {
+    "id": 846,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~市场研究报告",
+    "relation": 0,
+    "lineCode": "JJFAH"
+  },
+  {
+    "id": 847,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~专题定制咨询报告",
+    "relation": 0,
+    "lineCode": "JJFAI"
+  },
+  {
+    "id": 848,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008010",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~代理报告产品",
+    "relation": 0,
+    "lineCode": "JJFAJ"
+  },
+  {
+    "id": 849,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~管理知识库",
+    "relation": 0,
+    "lineCode": "JJFAK"
+  },
+  {
+    "id": 850,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济信息专刊",
+    "relation": 0,
+    "lineCode": "JJFAL"
+  },
+  {
+    "id": 851,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26008007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~行业监测服务",
+    "relation": 0,
+    "lineCode": "JJFAM"
+  },
+  {
+    "id": 852,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~综合信息专供",
+    "relation": 0,
+    "lineCode": "JJFAN"
+  },
+  {
+    "id": 853,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26008008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~新产品研发",
+    "relation": 0,
+    "lineCode": "JJFAO"
+  },
+  {
+    "id": 854,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008020",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~新华时讯通",
+    "relation": 0,
+    "lineCode": "JJFAQ"
+  },
+  {
+    "id": 855,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008016",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~新华资讯",
+    "relation": 0,
+    "lineCode": "JZXAA"
+  },
+  {
+    "id": 856,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26008007015",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~农产品监测",
+    "relation": 0,
+    "lineCode": "JJFAR"
+  },
+  {
+    "id": 857,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008018",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~农资监测",
+    "relation": 0,
+    "lineCode": "JJFAS"
+  },
+  {
+    "id": 858,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008019",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~房地产建材监测",
+    "relation": 0,
+    "lineCode": "JJFAT"
+  },
+  {
+    "id": 859,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~每日财经分析",
+    "relation": 0,
+    "lineCode": "JJFAA"
+  },
+  {
+    "id": 860,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济分析",
+    "relation": 0,
+    "lineCode": "JJFAB"
+  },
+  {
+    "id": 861,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~经济数据",
+    "relation": 0,
+    "lineCode": "JJFAC"
+  },
+  {
+    "id": 862,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202008004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告专线~专题报告",
+    "relation": 0,
+    "lineCode": "JJFAD"
+  },
+  {
+    "id": 863,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202007004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华短信专线~新华社信息短信",
+    "relation": 0,
+    "lineCode": "JDXAD"
+  },
+  {
+    "id": 864,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202007001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华短信专线~新华短信",
+    "relation": 0,
+    "lineCode": "JDXAA"
+  },
+  {
+    "id": 865,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线",
+    "relation": 0,
+    "lineCode": "JXXAS"
+  },
+  {
+    "id": 866,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005093",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~APEC专题",
+    "relation": 0,
+    "lineCode": "DK101"
+  },
+  {
+    "id": 867,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005094",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~APEC图片库",
+    "relation": 0,
+    "lineCode": "DK102"
+  },
+  {
+    "id": 868,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005095",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~WTO专题",
+    "relation": 0,
+    "lineCode": "DK103"
+  },
+  {
+    "id": 869,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005096",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~朝鲜核问题",
+    "relation": 0,
+    "lineCode": "DK104"
+  },
+  {
+    "id": 870,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005097",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~东南亚专题",
+    "relation": 0,
+    "lineCode": "DK105"
+  },
+  {
+    "id": 871,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005098",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~反恐怖专题",
+    "relation": 0,
+    "lineCode": "DK106"
+  },
+  {
+    "id": 872,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005099",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~反倾销专题",
+    "relation": 0,
+    "lineCode": "DK107"
+  },
+  {
+    "id": 873,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005106",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~非典专题",
+    "relation": 0,
+    "lineCode": "DK108"
+  },
+  {
+    "id": 874,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005107",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~非典专题（图片）",
+    "relation": 0,
+    "lineCode": "DK109"
+  },
+  {
+    "id": 875,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005108",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~美伊专题",
+    "relation": 0,
+    "lineCode": "DK110"
+  },
+  {
+    "id": 876,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005109",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~美伊专题（网络图片）",
+    "relation": 0,
+    "lineCode": "DK111"
+  },
+  {
+    "id": 877,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005110",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~美伊专题（新华社图片）",
+    "relation": 0,
+    "lineCode": "DK112"
+  },
+  {
+    "id": 878,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005111",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~党代会专题",
+    "relation": 0,
+    "lineCode": "DK113"
+  },
+  {
+    "id": 879,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005112",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~中国共产党专题",
+    "relation": 0,
+    "lineCode": "DK114"
+  },
+  {
+    "id": 880,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005113",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~宗教专题",
+    "relation": 0,
+    "lineCode": "DK115"
+  },
+  {
+    "id": 881,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005114",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~台湾公投专题",
+    "relation": 0,
+    "lineCode": "DK116"
+  },
+  {
+    "id": 882,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~新华图片库",
+    "relation": 0,
+    "lineCode": "DK119"
+  },
+  {
+    "id": 883,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005063",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~奥运专题",
+    "relation": 0,
+    "lineCode": "DK117"
+  },
+  {
+    "id": 884,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~背景动态库",
+    "relation": 0,
+    "lineCode": "DK118"
+  },
+  {
+    "id": 885,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~挑选信息库",
+    "relation": 0,
+    "lineCode": "DK120"
+  },
+  {
+    "id": 886,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005036",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~走出去专题",
+    "relation": 0,
+    "lineCode": "DK121"
+  },
+  {
+    "id": 887,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005026",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~伊朗核专题",
+    "relation": 0,
+    "lineCode": "DK122"
+  },
+  {
+    "id": 888,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005101",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~汶川地震",
+    "relation": 0,
+    "lineCode": "DK124"
+  },
+  {
+    "id": 889,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005062",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~不发布-开行大连分行客户数据库",
+    "relation": 0,
+    "lineCode": "DK123"
+  },
+  {
+    "id": 890,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005057",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~政务经济信息库",
+    "relation": 0,
+    "lineCode": "DK126"
+  },
+  {
+    "id": 891,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005058",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~舆情报告库",
+    "relation": 0,
+    "lineCode": "DK127"
+  },
+  {
+    "id": 892,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005064",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~海外内部信息",
+    "relation": 0,
+    "lineCode": "DK128"
+  },
+  {
+    "id": 893,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005055",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~教育观察",
+    "relation": 0,
+    "lineCode": "DK129"
+  },
+  {
+    "id": 894,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005059",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~电子信息库",
+    "relation": 0,
+    "lineCode": "DK130"
+  },
+  {
+    "id": 895,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005056",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~企业专供RA",
+    "relation": 0,
+    "lineCode": "DK131"
+  },
+  {
+    "id": 896,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005060",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~企业专供RB",
+    "relation": 0,
+    "lineCode": "DK132"
+  },
+  {
+    "id": 897,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005124",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~工商财税库",
+    "relation": 0,
+    "lineCode": "DK134"
+  },
+  {
+    "id": 898,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005122",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~浙江消防舆情",
+    "relation": 0,
+    "lineCode": "DK135"
+  },
+  {
+    "id": 899,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005123",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~政务信息库3",
+    "relation": 0,
+    "lineCode": "DK136"
+  },
+  {
+    "id": 900,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005128",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~外媒报道（北京市新闻办）",
+    "relation": 0,
+    "lineCode": "DK137"
+  },
+  {
+    "id": 901,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005129",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~新华舆情北京",
+    "relation": 0,
+    "lineCode": "DK138"
+  },
+  {
+    "id": 902,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005130",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~汽车能源专线",
+    "relation": 0,
+    "lineCode": "DK139"
+  },
+  {
+    "id": 903,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005120",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~2014金融库(新)",
+    "relation": 0,
+    "lineCode": "DK140"
+  },
+  {
+    "id": 904,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005131",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~专供周报库",
+    "relation": 0,
+    "lineCode": "DK141"
+  },
+  {
+    "id": 905,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005127",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~舆情专线咨询产品库",
+    "relation": 0,
+    "lineCode": "DK142"
+  },
+  {
+    "id": 906,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005126",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~银行费率",
+    "relation": 0,
+    "lineCode": "DK143"
+  },
+  {
+    "id": 907,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202005121",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~大客户信息专线~网游专供库",
+    "relation": 0,
+    "lineCode": "DK144"
+  },
+  {
+    "id": 908,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~管理知识库",
+    "relation": 0,
+    "lineCode": "JCJAH"
+  },
+  {
+    "id": 909,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~专题定制报告",
+    "relation": 0,
+    "lineCode": "JCJAI"
+  },
+  {
+    "id": 910,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~行业数据",
+    "relation": 0,
+    "lineCode": "JCJAJ"
+  },
+  {
+    "id": 911,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~行业监测报告",
+    "relation": 0,
+    "lineCode": "JCJAK"
+  },
+  {
+    "id": 912,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~代理报告",
+    "relation": 0,
+    "lineCode": "JCJAL"
+  },
+  {
+    "id": 913,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~“秘书＋顾问”政务决策支持系统·领导版",
+    "relation": 0,
+    "lineCode": "JCJAN"
+  },
+  {
+    "id": 914,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~新华每周金融分析",
+    "relation": 0,
+    "lineCode": "JCJAM"
+  },
+  {
+    "id": 915,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26010001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~新华每日财经分析",
+    "relation": 0,
+    "lineCode": "JCJAA"
+  },
+  {
+    "id": 916,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~新华每周财经分析",
+    "relation": 0,
+    "lineCode": "JCJAB"
+  },
+  {
+    "id": 917,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010012",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~铜业决策顾问",
+    "relation": 0,
+    "lineCode": "JCJAD"
+  },
+  {
+    "id": 918,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202010013",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~铝业决策顾问",
+    "relation": 0,
+    "lineCode": "JCJAE"
+  },
+  {
+    "id": 919,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26010005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华财经分析专线~分析报告库",
+    "relation": 0,
+    "lineCode": "JCJAF"
+  },
+  {
+    "id": 920,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~对外中文大客户",
+    "relation": 0,
+    "lineCode": "JDWAS"
+  },
+  {
+    "id": 921,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202014",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~经济分析报告库",
+    "relation": 0,
+    "lineCode": "JZHAH"
+  },
+  {
+    "id": 922,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022009",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋经济参考",
+    "relation": 0,
+    "lineCode": "JHYAA"
+  },
+  {
+    "id": 923,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022008",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋综合管理",
+    "relation": 0,
+    "lineCode": "JHYAB"
+  },
+  {
+    "id": 924,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋资源与环境",
+    "relation": 0,
+    "lineCode": "JHYAC"
+  },
+  {
+    "id": 925,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋经贸",
+    "relation": 0,
+    "lineCode": "JHYAD"
+  },
+  {
+    "id": 926,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋金融",
+    "relation": 0,
+    "lineCode": "JHYAE"
+  },
+  {
+    "id": 927,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋科技",
+    "relation": 0,
+    "lineCode": "JHYAF"
+  },
+  {
+    "id": 928,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋文化",
+    "relation": 0,
+    "lineCode": "JHYAG"
+  },
+  {
+    "id": 929,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海洋法律与权益",
+    "relation": 0,
+    "lineCode": "JHYAH"
+  },
+  {
+    "id": 930,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202022007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~海洋经济信息专线~海上丝绸之路",
+    "relation": 0,
+    "lineCode": "JHYAI"
+  },
+  {
+    "id": 931,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202026",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华08精华版",
+    "relation": 0,
+    "lineCode": "JHB08"
+  },
+  {
+    "id": 932,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202021",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~新华08网站",
+    "relation": 0,
+    "lineCode": "WEB08"
+  },
+  {
+    "id": 933,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202029001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~统计数据库",
+    "relation": 0,
+    "lineCode": "JZHAF"
+  },
+  {
+    "id": 934,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202029002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~公司信息库",
+    "relation": 0,
+    "lineCode": "JZHAA"
+  },
+  {
+    "id": 935,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202029003",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~产经分析库",
+    "relation": 0,
+    "lineCode": "JZHAB"
+  },
+  {
+    "id": 936,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202029004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~新产品新技术库",
+    "relation": 0,
+    "lineCode": "JZHAE"
+  },
+  {
+    "id": 937,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202029005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~决策参考库",
+    "relation": 0,
+    "lineCode": "JZHAC"
+  },
+  {
+    "id": 938,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202029006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~综合信息库(分类)~政策法规库",
+    "relation": 0,
+    "lineCode": "JZHAD"
+  },
+  {
+    "id": 939,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202020001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~金融信息专线~财经资讯",
+    "relation": 0,
+    "lineCode": "JXCBK"
+  },
+  {
+    "id": 940,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202020002",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~金融信息专线~一带一路信息服务",
+    "relation": 0,
+    "lineCode": "JZXAC"
+  },
+  {
+    "id": 941,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26005001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息（综合版）",
+    "relation": 0,
+    "lineCode": "JGFAA"
+  },
+  {
+    "id": 942,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202002006",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(教育版)",
+    "relation": 0,
+    "lineCode": "JGFAB"
+  },
+  {
+    "id": 943,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202002004",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(法制版)",
+    "relation": 0,
+    "lineCode": "JGFAD"
+  },
+  {
+    "id": 944,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202002001",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(海外版)",
+    "relation": 0,
+    "lineCode": "JGFAF"
+  },
+  {
+    "id": 945,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202002005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~高管信息(媒体集粹)",
+    "relation": 0,
+    "lineCode": "JGFAE"
+  },
+  {
+    "id": 946,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26005005",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~建设社会主义新农村专题",
+    "relation": 0,
+    "lineCode": "JGFAJ"
+  },
+  {
+    "id": 947,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c210202002007",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~职业和成人教育",
+    "relation": 0,
+    "lineCode": "JGFAP"
+  },
+  {
+    "id": 948,
+    "ruleId": 60,
+    "ruleName": "经济信息成品稿分发生成内网23",
+    "lineCId": "c26005011",
+    "lineName": "线路~中文~新华社成品库~新华社经济信息~高管信息专线~京津冀时讯通",
+    "relation": 0,
+    "lineCode": "JJSXT"
+  },
+  {
+    "id": 950,
+    "ruleId": 45,
+    "ruleName": "新采编图片系统送生成23系统",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 1294,
+    "ruleId": 64,
+    "ruleName": "短视频专线成品素材给音视频系统",
+    "lineCId": "c0090182",
+    "lineName": "线路~中文~新华社成品库~新华社视频~视频成品素材~短视频专线成品素材线",
+    "relation": 0,
+    "lineCode": "YXDSC"
+  },
+  {
+    "id": 1295,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090178",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线",
+    "relation": 0,
+    "lineCode": "YXDSP"
+  },
+  {
+    "id": 1296,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090160",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~重大新闻(高清)",
+    "relation": 0,
+    "lineCode": "YXH1E"
+  },
+  {
+    "id": 1297,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090161",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~绝对现场(高清)",
+    "relation": 0,
+    "lineCode": "YXH1D"
+  },
+  {
+    "id": 1298,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090162",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~军情在线(高清)",
+    "relation": 0,
+    "lineCode": "YXH1F"
+  },
+  {
+    "id": 1299,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090163",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~财经机会(高清)",
+    "relation": 0,
+    "lineCode": "YXH1G"
+  },
+  {
+    "id": 1300,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090164",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~网话高科(高清)",
+    "relation": 0,
+    "lineCode": "YXH1H"
+  },
+  {
+    "id": 1301,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090165",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~人与社会(高清)",
+    "relation": 0,
+    "lineCode": "YXH1I"
+  },
+  {
+    "id": 1302,
+    "ruleId": 57,
+    "ruleName": "短视频专线给音视频系统",
+    "lineCId": "c0090166",
+    "lineName": "线路~中文~新华社成品库~新华社视频~新华社电视节目线路~短视频专线~娱乐时尚(高清)",
+    "relation": 0,
+    "lineCode": "YXH1J"
+  },
+  {
+    "id": 1314,
+    "ruleId": 65,
+    "ruleName": "RSS视频稿转多媒体稿",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 1315,
+    "ruleId": 62,
+    "ruleName": "新采编稿件送生成内网23",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 1317,
+    "ruleId": 67,
+    "ruleName": "新媒体专线送全球网国内",
+    "lineCId": "c0030173",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线",
+    "relation": 0,
+    "lineCode": "IFWZX"
+  },
+  {
+    "id": 1318,
+    "ruleId": 68,
+    "ruleName": "新媒体专线送全球网Ku",
+    "lineCId": "c0030173",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线",
+    "relation": 0,
+    "lineCode": "IFWZX"
+  },
+  {
+    "id": 1319,
+    "ruleId": 63,
+    "ruleName": "待拆分的RSS采集多媒体稿",
+    "lineCId": "c0030173",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线",
+    "relation": 0,
+    "lineCode": "IFWZX"
+  },
+  {
+    "id": 1321,
+    "ruleId": 69,
+    "ruleName": "文字稿转旧八行",
+    "lineCId": "c0030098",
+    "lineName": "线路~English~Xinhua Agency Product Library~Xinhua News~Xinhua Domestic Users\u0027 Service",
+    "relation": 0,
+    "lineCode": "EEZBL"
+  },
+  {
+    "id": 1322,
+    "ruleId": 69,
+    "ruleName": "文字稿转旧八行",
+    "lineCId": "c0030002",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~通稿新闻线路",
+    "relation": 0,
+    "lineCode": "XHZSS"
+  },
+  {
+    "id": 1323,
+    "ruleId": 69,
+    "ruleName": "文字稿转旧八行",
+    "lineCId": "c0030006",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~国际特稿新闻专线",
+    "relation": 0,
+    "lineCode": "XHZOE"
+  },
+  {
+    "id": 1324,
+    "ruleId": 69,
+    "ruleName": "文字稿转旧八行",
+    "lineCId": "c0030016",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~BL广播",
+    "relation": 0,
+    "lineCode": "XHZBL"
+  },
+  {
+    "id": 1325,
+    "ruleId": 69,
+    "ruleName": "文字稿转旧八行",
+    "lineCId": "c0030175",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~新媒体专线_文字",
+    "relation": 0,
+    "lineCode": "IFWWZ"
+  },
+  {
+    "id": 1326,
+    "ruleId": 69,
+    "ruleName": "文字稿转旧八行",
+    "lineCId": "c0030024",
+    "lineName": "线路~中文~新华社成品库~新华社新闻~公鉴",
+    "relation": 0,
+    "lineCode": "XHZSG"
+  },
+  {
+    "id": 1329,
+    "ruleId": 70,
+    "ruleName": "新媒体专线（ifwwz）分发给全球网Ku-text",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 1331,
+    "ruleId": 71,
+    "ruleName": "ifwwz新媒体专线文字稿转old8",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 1347,
+    "ruleId": 79,
+    "ruleName": "TEST1",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  },
+  {
+    "id": 1352,
+    "ruleId": 80,
+    "ruleName": "测试",
+    "lineCId": "ALL",
+    "lineName": "ALL",
+    "relation": 0,
+    "lineCode": "ALL"
+  }
+]

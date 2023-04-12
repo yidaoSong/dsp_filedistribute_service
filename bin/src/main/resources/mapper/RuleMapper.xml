@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.bfd.monitor.mapper.RuleMapper">
+	<sql id="selectRuleParameter">
+		rule.id,rule.receiveMode,rule.sendMode,rule.`status`,rule.setid,rule.system,rule.groupId,rule.attribute,
+		IFNULL(rule.contenttype,'') as contenttype,
+		IFNULL(rule.contenttypeExclude,'') as contenttypeExclude,
+		IFNULL(rule.department,'') as department,
+		IFNULL(rule.departmentExclude,'') as departmentExclude,
+		IFNULL(rule.`language`,'') as `language`,
+		IFNULL(rule.`languageExclude`,'') as languageExclude,
+		IFNULL(rule.systemnum,'') as systemnum,
+		IFNULL(rule.systemnumExclude,'') as systemnumExclude,
+		IFNULL(rule.sendPath,'') as sendPath,
+		IFNULL(rule.ruleName,'') as ruleName
+	</sql>
+
+	<select id="queryRLByRuleId" resultType="com.bfd.monitor.bean.RuleLine"
+		parameterType="map">
+		select * FROM `rule_line` where ruleId=#{ruleId} and
+		relation=#{relation}
+	</select>
+
+	<select id="queryRuleBySet" resultType="com.bfd.monitor.bean.Rule"
+		parameterType="com.bfd.monitor.bean.Rule">
+		SELECT * FROM rule WHERE rule.setid = #{setid} AND
+		rule.`status` = 0
+		AND rule.sendMode = #{sendMode} AND rule.receiveMode = #{receiveMode}
+	</select>
+
+	<update id="updateRuleSetSwitch" parameterType="java.lang.Integer">
+		UPDATE rule_sets
+		SET rule_sets.`status` = #{0} WHERE rule_sets.id = #{1}
+	</update>
+
+	<update id="updateRuleSwitchBySet" parameterType="java.lang.Integer">
+		UPDATE rule SET
+		rule.`status` = #{0} WHERE rule.setid = #{1}
+	</update>
+
+	<select id="queryRuleById" resultType="com.bfd.monitor.bean.Rule"
+		parameterType="java.lang.Integer">
+		select * FROM `rule` where id=#{id}
+	</select>
+
+	<select id="checkRuleByName" resultType="com.bfd.monitor.bean.Rule">
+		select * FROM `rule`
+		where ruleName=#{0}
+	</select>
+
+	<update id="updateRuleSwitch" parameterType="java.lang.Integer">
+		update `rule`
+		set
+		status=#{0} where id = #{1}
+	</update>
+
+	<select id="queryRLByRuleName" resultType="com.bfd.monitor.bean.RuleLine"
+		parameterType="java.lang.String">
+		select * FROM `rule_line` where ruleName=#{0} and
+		relation=#{1}
+	</select>
+
+	<delete id="deleteRuleLineByRuleId" parameterType="java.lang.Integer">
+		delete from
+		rule_line where ruleId=#{ruleId}
+	</delete>
+
+	<delete id="deleteRuleLineById" parameterType="java.lang.Integer">
+		delete from
+		rule_line where id=#{id}
+	</delete>
+
+	<select id="queryRuleLineByRelation" resultType="com.bfd.monitor.bean.RuleLine"
+		parameterType="Map">
+		select * from rule_line where ruleId = #{ruleId} and
+		relation = #{relation}
+	</select>
+
+	<insert id="insertDistributeLog" parameterType="Manuscript">
+		INSERT INTO
+		distribute_log (
+		ruleId,
+		distributeType,
+		distributeStatus,
+		distributeMsg,
+		setId,
+		createTime
+		)
+		VALUES (
+		#{ruleId},
+		#{distributeType},
+		#{distributeStatus},
+		#{distributeMsg},
+		#{setId},
+		NOW()
+		)
+	</insert>
+	
+	<insert id="insertDistributeRuleSetLog" parameterType="Manuscript">
+		INSERT INTO
+		distribute_ruleset_log (
+		distributeStatus,
+		distributeMsg,
+		setId,
+		createTime
+		)
+		VALUES (
+		#{distributeResult},
+		#{distributeResultMsg},
+		#{setId},
+		NOW()
+		)
+	</insert>
+
+	<delete id="deleteExceptionByDay">
+		delete from distribute_error where TIMESTAMPDIFF(
+		day,createTime, now())>=#{0}
+	</delete>
+
+	<select id="queryErrorCount" resultType="int">
+		select count(1) from
+		distribute_error where setId=#{0} and fileId=#{1} and
+		errorType = #{2}
+	</select>
+
+	<insert id="addError">
+		insert into distribute_error
+		(fileId,errorType,createTime,setId
+		) values(#{0},#{1},now(),#{2})
+	</insert>
+	
+	<select id="queryRuleBySetNoStatus" resultType="com.bfd.monitor.bean.Rule"
+		parameterType="com.bfd.monitor.bean.Rule">
+		SELECT * FROM rule WHERE rule.setid = #{setid} AND
+		rule.`status` = 1
+		AND rule.sendMode = #{sendMode} AND rule.receiveMode = #{receiveMode}
+	</select>
+	<!--根据规则集主键查询所有文件到文件的分发-->
+	<select id="queryRuleAllBySet" resultType="com.bfd.monitor.bean.Rule"
+		parameterType="com.bfd.monitor.bean.Rule">
+		SELECT * FROM rule WHERE rule.setid = #{setid} 
+		AND rule.sendMode = #{sendMode} AND rule.receiveMode = #{receiveMode}
+	</select>
+</mapper>

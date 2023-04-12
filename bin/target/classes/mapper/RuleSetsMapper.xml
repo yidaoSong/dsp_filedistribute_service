@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.bfd.monitor.mapper.RuleSetsMapper">
+	<select id="queryRuleSetsByRule" resultType="RuleSets" parameterType="java.lang.Integer">
+		select * from rule_sets where rule_sets.id = ( SELECT rule.setid FROM rule WHERE rule.id =#{id} )
+	</select>
+	
+<!-- 	<select id="getRuleCountBySet" resultType="java.lang.Integer" parameterType="java.lang.Integer"> -->
+<!-- 		select count(1) from rule where rule.setid = #{id} and rule.`status` = 0 -->
+<!-- 	</select> -->
+
+	<select id="queryStartRuleSets" resultType="RuleSets">
+		SELECT * FROM rule_sets WHERE rule_sets.`status` = 0 
+	</select>
+
+	<!-- 根据分发队列查询类型为消息的规则集 -->
+<!-- 	<select id="queryRuleSetsByMes" resultType="RuleSets"> -->
+<!-- 		select * from -->
+<!-- 		rule_sets where Catalog=#{0} and setType='0' -->
+<!-- 	</select> -->
+	
+	<!-- 根据分发目录、根目录、ip查询类型为文件的规则集 -->
+<!-- 	<select id="queryRuleSetsByFile" resultType="RuleSets"> -->
+<!-- 		select * from -->
+<!-- 		rule_sets where rootCatalog=#{0} and Catalog=#{1} -->
+<!-- 		and setType='1' -->
+<!-- 	</select> -->
+    <!-- 根据主键查询类型为文件的规则集 -->
+	<select id="queryRuleSetsById" resultType="RuleSets" parameterType="java.lang.Integer">
+		select * from rule_sets where id=#{id}
+	</select>
+	
+	<!-- 查询当前机器上所有配置 -->
+<!-- 	<select id="queryRuleSetsList" resultType="RuleSets"> -->
+<!-- 		select * from rule_sets -->
+<!-- 	</select> -->
+	 <!-- 增加规则集 -->
+<!-- 	<insert id="addRuleSets" parameterType="RuleSets"> -->
+<!-- 		insert into -->
+<!-- 		rule_sets(setName, -->
+<!-- 		setType, -->
+<!-- 		rootCatalog, -->
+<!-- 		Catalog, -->
+<!-- 		cataName, -->
+<!-- 		cataText, -->
+<!-- 		quartz -->
+<!-- 		) -->
+<!-- 		values(#{setName}, -->
+<!-- 		#{setType}, -->
+<!-- 		#{rootCatalog}, -->
+<!-- 		#{catalog}, -->
+<!-- 		#{cataName}, -->
+<!-- 		#{cataText}, -->
+<!-- 		#{quartz}) -->
+<!-- 	</insert> -->
+	<!-- 修改规则集 -->
+<!-- 	<update id="updateRuleSets" parameterType="RuleSets"> -->
+<!-- 		update rule_sets set -->
+<!-- 		setName=#{setName}, -->
+<!-- 		setType=#{setType}, -->
+<!-- 		rootCatalog=#{rootCatalog}, -->
+<!-- 		Catalog=#{catalog}, -->
+<!-- 		cataName=#{cataName}, -->
+<!-- 		cataText=#{cataText}, -->
+<!-- 		quartz = #{quartz} where -->
+<!-- 		id=#{id} -->
+<!-- 	</update> -->
+    <!-- 删除规则集-->
+<!-- 	<delete id="deleteRuleSets" parameterType="int"> -->
+<!-- 		delete from rule_sets where id=#{id} -->
+<!-- 	</delete> -->
+	
+	<!-- 消息类型为消息的规则集 -->
+<!-- 	<select id="querySetsByMes" resultType="RuleSets"> -->
+<!-- 		select * from -->
+<!-- 		rule_sets where setType='0' -->
+<!-- 	</select> -->
+	
+	<!-- 根据ip查询类型为文件的结果集 -->
+<!-- 	<select id="querySetsByFile" resultType="RuleSets"> -->
+<!-- 		select * from rule_sets  -->
+<!-- 	</select> -->
+	
+<!-- 	<select id="queryRuleSetsAllList" resultType="RuleSets"> -->
+<!-- 		select * from rule_sets -->
+<!-- 	</select> -->
+	
+<!-- 	<select id="queryRuleSetsFilterList" resultType="RuleSets" parameterType="RuleSets"> -->
+<!-- 		select * from rule_sets where 1=1 -->
+		
+<!-- 		<if test="setName !=null "> -->
+<!-- 			and setName LIKE concat(concat('%',#{setName}),'%') -->
+<!-- 		</if> -->
+<!-- 	</select> -->
+	
+	<select id="querySystemTime" resultType="java.lang.String">
+		SELECT DATE_FORMAT(NOW(),'%Y-%m-%d %H:%i:%s') time FROM DUAL
+	</select>
+	
+</mapper>

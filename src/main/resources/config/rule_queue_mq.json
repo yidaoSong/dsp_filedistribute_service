@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "queueName": "DSP_NEWSARTICLE_RECEIVE_QUEUE_1",
+    "type": 1,
+    "parentQueue": -1,
+    "exchangeType": "fanout"
+  },
+  {
+    "id": 10,
+    "queueName": "dsp_to_bq_exchange_new",
+    "type": 3,
+    "parentQueue": -1,
+    "appid": "BanQuan",
+    "exchangeType": "fanout"
+  },
+  {
+    "id": 23,
+    "queueName": "IMPORT_TO_CKH_FINISHED_TEST",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "clickhouse",
+    "exchangeType": ""
+  },
+  {
+    "id": 25,
+    "queueName": "BSD-CMPPE-SEMI-DongBa",
+    "type": 3,
+    "parentQueue": -1,
+    "appid": "CMPPE",
+    "exchangeType": "fanout"
+  },
+  {
+    "id": 26,
+    "queueName": "DSP_TO_QQW_FINISHED_TEST",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "qqw",
+    "exchangeType": ""
+  },
+  {
+    "id": 28,
+    "queueName": "DSP_TO_BQ_TEST",
+    "type": 2,
+    "parentQueue": 10,
+    "appid": "BanQuan",
+    "exchangeType": ""
+  },
+  {
+    "id": 29,
+    "queueName": "BSD-CMPPE-FINISHED-DongBa",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "CMPPE",
+    "exchangeType": ""
+  },
+  {
+    "id": 31,
+    "queueName": "DSP_TO_WWMQ_XHAPP",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "XHKHD",
+    "exchangeType": ""
+  },
+  {
+    "id": 32,
+    "queueName": "XMTDB_XMT_TO_XGTS_IOPP",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "XGG",
+    "exchangeType": ""
+  },
+  {
+    "id": 34,
+    "queueName": "XMTDB_XMT_TO_XGTS_LV",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "XGG",
+    "exchangeType": ""
+  },
+  {
+    "id": 36,
+    "queueName": "DIS_TO_VIDEOVERIFY",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "VIDEO",
+    "exchangeType": ""
+  },
+  {
+    "id": 37,
+    "queueName": "DSP_DIS_TO_MODELSEARCH",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "MODEL",
+    "exchangeType": ""
+  },
+  {
+    "id": 38,
+    "queueName": "DSP_TO_ARCHIVES",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "ARCHIVES",
+    "exchangeType": ""
+  },
+  {
+    "id": 39,
+    "queueName": "DSP_TO_YWGL_SYB_NEW",
+    "type": 2,
+    "parentQueue": -1,
+    "appid": "SYB",
+    "exchangeType": ""
+  },
+  {
+    "id": 41,
+    "queueName": "CSDL_CS_CS",
+    "type": 1,
+    "parentQueue": -1,
+    "exchangeType": ""
+  }
+]
